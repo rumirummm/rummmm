@@ -25,6 +25,9 @@
 # **Games:**
 
 ## osu!
+
+![osu!](https://i0.wp.com/vrscout.com/wp-content/uploads/2020/11/Osu.jpg?)
+
 osu! is a free-to-play rhythm game primarily developed, published, and created by Dean "peppy" Herbert. Inspired by iNiS' rhythm game Osu! Tatakae! Ouendan
 
 
