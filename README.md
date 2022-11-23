@@ -12,7 +12,7 @@
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Omw8TFcHJktGPEzKYiZjG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-## list of my favourite songs (almost everything in my playlist is my favourite hwahshakdjasd):
+## list of my favourite songs:
 
 ### [505 - Arctic Monkeys](https://www.youtube.com/watch?v=qU9mHegkTc4&ab_channel=ArcticMonkeys-Topic)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BxE4FqsDD1Ot4YuBXwAPp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
